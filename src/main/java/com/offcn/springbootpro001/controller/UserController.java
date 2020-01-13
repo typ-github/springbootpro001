@@ -75,7 +75,7 @@ public class UserController {
 
     //先commit到本地仓库  再push到github
     public void get(){
-        System.out.println("111111111");
+        System.out.println("修改002");
     }
 
 
