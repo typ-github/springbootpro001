@@ -72,6 +72,10 @@ public class UserController {
 
     }
 
+    public void get(){
+        System.out.println("111111111");
+    }
+
 
 
 
